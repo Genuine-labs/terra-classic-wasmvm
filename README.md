@@ -1,5 +1,7 @@
 # wasmvm
 
+For terra
+
 This is a wrapper around the
 [CosmWasm VM](https://github.com/CosmWasm/cosmwasm/tree/main/packages/vm). It
 allows you to compile, initialize and execute CosmWasm smart contracts from Go
